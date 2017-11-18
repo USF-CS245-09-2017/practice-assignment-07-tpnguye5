@@ -1,0 +1,6 @@
+Theresa Nguyen
+
+Hi,
+
+I would like to mention that I had to change the test file since the file that needed to be read for this practice assignment
+"web2" could not be found. Thus, it had affected my timing test. I commented out the original line. So, you can uncomment it. 
